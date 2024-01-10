@@ -1,4 +1,4 @@
-# Project Overview: Decentralized Exchange (DEX) like Uniswap v1
+# Decentralized Exchange (DEX) like Uniswap v1
 
 ## Introduction
 
